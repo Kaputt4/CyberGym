@@ -18,4 +18,4 @@ Web Application developed as a project in _Secure Web Development_ subject, in [
 ## Authors ✒️
 * [Kaputt4](https://github.com/Kaputt4)
 * [Mikiped00](https://github.com/Mikiped00)
-* [G0nz4lo-4lvarez-H3rv4s] (https://github.com/G0nz4lo-4lvarez-H3rv4s)
+* [G0nz4lo-4lvarez-H3rv4s](https://github.com/G0nz4lo-4lvarez-H3rv4s)
